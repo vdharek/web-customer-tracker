@@ -11,7 +11,7 @@
 	<name>spring-security-custom-user-registration-demo</name>
 
 	<properties>
-		<springsecurity.version>5.0.4.RELEASE</springsecurity.version>
+		<springsecurity.version>5.2.10.RELEASE</springsecurity.version>
 		<springframework.version>5.0.5.RELEASE</springframework.version>
 		<hibernate.version>5.2.16.Final</hibernate.version>
 		<mysql.connector.version>8.0.13</mysql.connector.version>
